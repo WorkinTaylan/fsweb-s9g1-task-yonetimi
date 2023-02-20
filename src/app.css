@@ -93,6 +93,7 @@
 
 .form-line {
   padding-top: 1rem;
+  
 }
 
 .input-text,
@@ -145,5 +146,9 @@
   opacity: .5;
   cursor: not-allowed;
   box-shadow: none;
+}
+
+Toastify__toast-container {
+  width: 10px;
 }
 /* FORM */
